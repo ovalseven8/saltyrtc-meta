@@ -291,11 +291,11 @@ use a random cookie for each client.
 
 Source: 1 byte
 
-Contains the SaltyRTC address of the sender.
+Contains the [SaltyRTC address](##Address) of the sender.
 
 Destination: 1 byte
 
-Contains the SaltyRTC address of the receiver.
+Contains the [SaltyRTC address](##Address) of the receiver.
 
 Overflow Number: 2 byte
 
